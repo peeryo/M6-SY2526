@@ -10,7 +10,7 @@ size = Vector2(95, 78)
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_65g6b"]
 shader = ExtResource("1_12as2")
-shader_parameter/line_color = Color(0.8509804, 0.40392157, 0.67058825, 1)
+shader_parameter/line_color = Color(0.123647206, 0.018220194, 0.082823135, 1)
 shader_parameter/line_thickness = 10.0
 shader_parameter/viewport_scale = Vector2(1, 1)
 
